@@ -58,7 +58,7 @@ While most of our projects are currently under private development, they represe
 **Farooq Qader – Lead Engineer & Founder**  
 Driven by a vision to create intelligent systems that make a real-world impact.
 
-- 🔗 LinkedIn: [Farooq Qader](linkedin.com/in/farooq-hamad-368182148)  
+- 🔗 LinkedIn: [Farooq Qader](https://www.linkedin.com/in/farooq-hamad-368182148)  
 - 📘 Facebook: [Farooq Qader](https://www.facebook.com/farooq.qader.hamad)
 
 ---
