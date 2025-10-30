@@ -35,7 +35,7 @@ Our mission is to design and deliver software solutions that combine **cutting-e
 At Hexabinar, we are actively developing a suite of next-generation platforms and intelligent solutions.  
 While most of our projects are currently under private development, they represent the core of our innovation strategy:
 
-- 🧩 **Hexabinar ERP Lite** — A next-generation **cross-platform ERP and management system** tailored for SMEs, built with **NestJS + Prisma + PostgreSQL + Flutter Web**, and engineered for **speed, modularity,        and enterprise-grade security**.  
+- 🧩 **Hexabinar ERP Lite** — A next-generation **cross-platform ERP and management system** tailored for SMEs, built with **NestJS + Prisma +       PostgreSQL + Flutter Web**, and engineered for **speed, modularity, and enterprise-grade security**.  
   🔹 Runs seamlessly across **Windows**, **Android**, and **Web**, delivering a unified and responsive user interface.  
   🔹 Supports both **SaaS (Multi-Tenant)** cloud deployment and **On-Premise (Local)** installation for flexibility and control.  
   🔹 Designed for modular scalability — Core modules include: **Users & Roles**, **Warehouses & Stocks**, **Products**, **Invoices**, and **Analytics Dashboard**.  
