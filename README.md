@@ -56,8 +56,8 @@ While most of our projects are currently under private development, they represe
 - 🌐 Website: [https://www.hexabinar.com](https://www.hexabinar.com)  
 - 💼 LinkedIn: [Hexabinar on LinkedIn](https://www.linkedin.com/company/hexabinar)  
 - 📘 Facebook: [Hexabinar on Facebook](https://www.facebook.com/hexabinar)  
-- 📩 Contact: [info@hexabinar.com](mailto:info@hexabinar.com)
-              [conact@hexabinar.com](mailto:contact@hexabinar.com)
+- 📩 Contact: [contact@hexabinar.com](mailto:contact@hexabinar.com)
+- 📩 Information: [info@hexabinar.com](mailto:info@hexabinar.com)
 
 ---
 
